@@ -6,7 +6,7 @@
 name: sampsonguo
 
 # Short bio or description (displayed in the header)
-description: blog
+description: RecSys, BigData, DM, ML, DNN
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/sampsonguo/sampsonguo.github.io/master/images/Icon.png
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/sampsonguo/sampsonguo.github.io/master
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: sampsonguo302@gmail.com
   facebook:
   flickr:
   github: sampsonguo/sampsonguo.github.io
